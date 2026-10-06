@@ -148,3 +148,9 @@ Create a file `appsettings.json` in the root of the `EquipmentInventory.UI` proj
   }
 }
 ```
+
+___
+
+<div align="right">
+  <em>ByTrollka · 2026</em>
+</div>
