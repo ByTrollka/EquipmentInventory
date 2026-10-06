@@ -1,4 +1,4 @@
-#EquipmentInventory
+# EquipmentInventory
 
 > Automation system for inventory and accounting of computer equipment in an organization.
 
@@ -79,7 +79,7 @@ ___
 - **NuGet**:
   - `BCrypt.Net-Next` - 4.0.3
   - `Microsoft.AspNetCore.Authentication.JwtBearer` - 7.0.2
-  - `Swashbuckle.AspNetCore - 6.6.2`
+  - `Swashbuckle.AspNetCore` - 6.6.2
   - `System.IdentityModel.Tokens.Jwt` - 7.1.2
 
 #### EquipmentInventory.UI
@@ -148,3 +148,9 @@ Create a file `appsettings.json` in the root of the `EquipmentInventory.UI` proj
   }
 }
 ```
+
+___
+
+<div align="right">
+  <em>BySwitrue · 2026</em>
+</div>
