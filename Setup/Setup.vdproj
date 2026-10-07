@@ -8211,13 +8211,13 @@
             "Property" = "8:ProgramMenuFolder"
                 "Folders"
                 {
-                    "{9EF0B969-E518-4E46-987F-47570745A589}:_82140351057D4B8BA896E51C1F4B010E"
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_D229461461D949858B15FC50B9B0FA20"
                     {
-                    "Name" = "8:ByTrollka"
+                    "Name" = "8:BySwitrue"
                     "AlwaysCreate" = "11:FALSE"
                     "Condition" = "8:"
                     "Transitive" = "11:FALSE"
-                    "Property" = "8:_E1E81698CFE349DAB5688D5ED2164732"
+                    "Property" = "8:_235C26CD6DD74AD4938DFFC219AAC29A"
                         "Folders"
                         {
                         }
@@ -8237,7 +8237,7 @@
             }
             "{3C67513D-01DD-4637-8A68-80971EB9504F}:_ED443A2C34C64C78A25CC35BC63EB970"
             {
-            "DefaultLocation" = "8:[ProgramFilesFolder][Manufacturer]\\[ProductName]"
+            "DefaultLocation" = "8:[ProgramFiles64Folder][Manufacturer]\\[ProductName]"
             "Name" = "8:#1925"
             "AlwaysCreate" = "11:FALSE"
             "Condition" = "8:"
@@ -8296,7 +8296,7 @@
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
-        "TargetPlatform" = "3:0"
+        "TargetPlatform" = "3:1"
         "PreBuildEvent" = "8:"
         "PostBuildEvent" = "8:"
         "RunPostBuildEvent" = "3:0"
@@ -8432,7 +8432,7 @@
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
             "Target" = "8:_EDF98989F4784D0E9386473109245841"
-            "Folder" = "8:_82140351057D4B8BA896E51C1F4B010E"
+            "Folder" = "8:_D229461461D949858B15FC50B9B0FA20"
             "WorkingFolder" = "8:_ED443A2C34C64C78A25CC35BC63EB970"
             "Icon" = "8:_7C0D03EB9F084283B758E19917884CA4"
             "Feature" = "8:"
